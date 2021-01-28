@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author skomarova -- January 2021
+ * @author skomarova
  */
 public class Student {
     
